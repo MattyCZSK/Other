@@ -1168,6 +1168,45 @@
             }
         ]
     },
+      "Executioner Speakerman": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://",
+        "Rarity": "Secret",
+        "PlacePrice": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 2000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 3000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 60,
+                "Damage": 3500,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Leviathan Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
