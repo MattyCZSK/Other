@@ -1206,6 +1206,44 @@
             }
         ]
     },
+     "Aquatic Foxy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://109963235324035",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 24000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 23,
+                "Damage": 600,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 50000,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Algae FredBear": {
         "Type": "Single",
         "Image": "rbxassetid://18255264349",
