@@ -1169,7 +1169,7 @@
         ]
     },
       "Executioner Speakerman": {
-        "Type": "Pierce",
+        "Type": "Pierce + Admin",
         "Image": "rbxassetid://",
         "Rarity": "Secret",
         "PlacePrice": 0,
