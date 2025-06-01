@@ -1058,6 +1058,7 @@
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
