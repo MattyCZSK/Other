@@ -346,6 +346,44 @@
             }
         ]
     },
+     "Hot Shadow Bonnie": {
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://130082493098671",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 70,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 17500,
+                "Range": 17,
+                "Damage": 75,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 27500,
+                "Range": 20,
+                "Damage": 90,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 60000,
+                "Range": 25,
+                "Damage": 125,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
