@@ -1983,7 +1983,7 @@
     },
        "CXASFSFQWR": {
         "Type": "AoE",
-        "Image": "rbxassetid://107190020086002",
+        "Image": "rbxassetid://130191554120545",
         "Rarity": "Secret",
         "PlacePrice": 2500,
         "Offset": 0,
@@ -2022,7 +2022,7 @@
     },
         "INRAGED CXASFSFQWR": {
         "Type": "Nuke + Passive",
-        "Image": "rbxassetid://107190020086002",
+        "Image": "rbxassetid://128026928970607",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
