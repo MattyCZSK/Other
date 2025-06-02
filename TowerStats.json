@@ -1981,6 +1981,85 @@
             }
         ]
     },
+       "CXASFSFQWR": {
+        "Type": "AoE",
+        "Image": "rbxassetid://107190020086002",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 225,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 21212,
+                "Range": 29,
+                "Damage": 260,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 33,
+                "Damage": 300,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+        "INRAGED CXASFSFQWR": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://107190020086002",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Passive": {"Name": "INRAGED", "Description": "Doubles Units Nuke By 20%"},
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 350,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 22500,
+                "Range": 27,
+                "Damage": 375,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 31250,
+                "Range": 31,
+                "Damage": 410,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 42150,
+                "Range": 35,
+                "Damage": 450,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Bounded Shadow": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
