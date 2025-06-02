@@ -2026,7 +2026,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
-        "Passive": {"Name": "INRAGED", "Description": "Doubles Units Nuke By 20%"},
+        "Passive": {"Name": "INRAGED", "Description": "Doubles Units Nuke Range By 20%"},
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
