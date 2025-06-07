@@ -3537,10 +3537,11 @@
         ]
     },
     "Goliath Endo Freddy": {
-        "Type": "AOE",
+        "Type": "AOE + Poison",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
+        "Passive": {"Name": "Toxic", "Description": "Deals an extra 100% Damage in Poison."},
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -3553,37 +3554,49 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 5000,
-                "Cooldown": 3.5
+                "Cooldown": 3.5,
+                "Poison": 2750,
+                "PoisonLength": 3
             },
             {
                 "Price": 100000,
                 "Range": 26,
                 "Damage": 7500,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "Poison": 5500,
+                "PoisonLength": 3
             },
             {
                 "Price": 125000,
                 "Range": 27,
                 "Damage": 10000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "Poison": 7500,
+                "PoisonLength": 3
             },
             {
                 "Price": 150000,
                 "Range": 28,
                 "Damage": 12500,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "Poison": 10000,
+                "PoisonLength": 3
             },
             {
                 "Price": 200000,
                 "Range": 29,
                 "Damage": 15000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "Poison": 12500,
+                "PoisonLength": 3
             },
             {
                 "Price": 250000,
                 "Range": 32,
                 "Damage": 17500,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "Poison": 15000,
+                "PoisonLength": 3
             }
         ]
     },
