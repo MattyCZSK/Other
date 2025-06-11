@@ -3188,6 +3188,45 @@
             }
         ]
     },
+    "Astral Bonnie": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://138982182129000",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 75000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100000,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 125000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Chicazilla": {
         "Type": "Cone AOE 180",
         "Image": "rbxassetid://85789248456776",
