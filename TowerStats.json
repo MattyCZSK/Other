@@ -3356,6 +3356,46 @@
             }
         ]
     },
+    "Old Man Consequences": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x50 damage to bosses."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 22222,
+                "Range": 28,
+                "Damage": 3125,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 33333,
+                "Range": 32,
+                "Damage": 3750,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 4500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
      "Chicazilla": {
         "Type": "Cone AOE 180",
         "Image": "rbxassetid://85789248456776",
