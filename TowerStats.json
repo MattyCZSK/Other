@@ -352,7 +352,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Max": 2,
-        "Passive": {"Name": "Shop Keeper", "Description": "Does Damage Boost & Range Boost"},
+        "Passive": {"Name": "Stocks", "Description": "Does Damage Boost & Range Boost"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -363,33 +363,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 125,
-                "Cooldown": 0.05,
-                "DamageBoost": 1.06,
-                "RangeBoost": 1.05
+                "Cooldown": 0.05
             },
             {
                 "Price": 10000,
                 "Range": 15,
                 "Damage": 250,
-                "Cooldown": 0.05,
-                "DamageBoost": 1.25,
-                "RangeBoost": 1.25
+                "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 19,
                 "Damage": 325,
-                "Cooldown": 0.05,
-                "DamageBoost": 1.36,
-                "RangeBoost": 1.35           
+                "Cooldown": 0.05         
             },
             {
                 "Price": 20000,
                 "Range": 25,
                 "Damage": 500,
-                "Cooldown": 0.05,
-                "DamageBoost": 1.55,
-                "RangeBoost": 1.50 
+                "Cooldown": 0.05
             }
         ]
     },
