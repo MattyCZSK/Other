@@ -346,6 +346,91 @@
             }
         ]
     },
+    "Shop Keeper Jolly Shadow Bonnie": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://99726583363165",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "Passive": {"Name": "Shop Keeper", "Description": "Does Damage Boost & Range Boost"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 125,
+                "Cooldown": 0.05,
+                "DamageBoost": 1.06,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.05,
+                "DamageBoost": 1.25,
+                "RangeBoost": 1.25
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 325,
+                "Cooldown": 0.05,
+                "DamageBoost": 1.36,
+                "RangeBoost": 1.35           
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.05,
+                "DamageBoost": 1.55,
+                "RangeBoost": 1.50 
+            }
+        ]
+    },
+       "White Rabbit": {
+        "Type": "AOE",
+        "Image": "rbxassetid://71041985949483",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 75,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 5000,
+                "Range": 16,
+                "Damage": 125,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 19,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
