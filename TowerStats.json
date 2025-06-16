@@ -838,7 +838,7 @@
         ]
     },
 "Ballora": {
-        "Type": "Cooldown Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://96561789964833",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
@@ -856,28 +856,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "RangeBoost": 0.85
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.76
+                "RangeBoost": 0.76
             }
         ]
     },
@@ -1087,7 +1087,7 @@
         ]
     },
 "Music Man": {
-        "Type": "Cooldown Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://77906930997624",
         "Rarity": "Secret",
         "PlacePrice": 1000,
@@ -1105,28 +1105,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.75
+                "RangeBoost": 0.75
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.7
+                "RangeBoost": 0.7
             }
         ]
     },
