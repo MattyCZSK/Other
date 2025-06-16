@@ -960,14 +960,13 @@
         ]
     },
 "Mendo": {
-        "Type": "Trap Layer",
+        "Type": "Aoe",
         "Image": "rbxassetid://117153987968201",
         "Rarity": "Secret",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Beartrap", "Description": "Spawns Beartraps that last forever until an enemy steps on them"},
-        "NoEnemyAttack": true,
+        "Passive": {"Name": "Aoe", "Description": "If you want Shiny Vengeance Shadow Bonnie Dm me official.sub2mattycz"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
