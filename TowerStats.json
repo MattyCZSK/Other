@@ -3795,12 +3795,13 @@
         ]
     },
     "Fredbear": {
-        "Type": "Support",
+        "Type": "Support + Passive",
         "Image": "rbxassetid://18977659349",
         "Rarity": "Secret",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
+         "Passive": {"Name": "Bite", "Description": "WAS THAT THE BITE OF 87?!?!"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
