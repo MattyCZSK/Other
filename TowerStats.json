@@ -3886,7 +3886,7 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://131111737389818",
         "Rarity": "Astral",
-        "PlacePrice": 50000,
+        "PlacePrice": 0,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -3902,19 +3902,19 @@
                 "Cooldown": 0.1
             },
             {
-                "Price": 750000,
+                "Price": 0,
                 "Range": 22,
                 "Damage": 60000,
                 "Cooldown": 0.1
             },
             {
-                "Price": 1000000,
+                "Price": 0,
                 "Range": 24,
                 "Damage": 70000,
                 "Cooldown": 0.1
             },
             {
-                "Price": 1250000,
+                "Price": 0,
                 "Range": 25,
                 "Damage": 80000,
                 "Cooldown": 0.1
