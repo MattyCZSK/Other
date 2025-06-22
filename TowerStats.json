@@ -5121,62 +5121,6 @@
             }
         ]
     },
-       "Outlaw Hunter Endo 02": {
-        "Type": "Continous Splash Slow + Passive",
-        "Image": "rbxassetid://136678045195601",
-        "Rarity": "Apex",
-        "PlacePrice": 25000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Outlaw's Dance", "Description": "Slows Enemies By 50% Lasting 5 Secs And Deals 50% Poison"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 0.5,
-                "Poison": 500,
-                "PoisonLength": 3,
-                "Slow": 50,
-                "SlowTime": 5
-            },
-            {
-                "Price": 40000,
-                "Range": 32,
-                "Damage": 1800,
-                "Cooldown": 0.4,
-                "Poison": 900,
-                "PoisonLength": 5,
-                "Slow": 50,
-                "SlowTime": 5
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 2000,
-                "Cooldown": 0.3,
-                "Poison": 1000,
-                "PoisonLength": 8,
-                "Slow": 50,
-                "SlowTime": 5
-            },
-            {
-                "Price": 15000,
-                "Range": 35,
-                "Damage": 4000,
-                "Cooldown": 0.2
-                "Poison": 2000,
-                "PoisonLength": 8,
-                "Slow": 50,
-                "SlowTime": 5
-            }
-        ]
-    },
     "Jackpot Freddy": {
         "Type": "Single Farm",
         "Image": "rbxassetid://108467505723572",
