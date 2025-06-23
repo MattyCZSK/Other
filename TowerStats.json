@@ -900,6 +900,8 @@
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
+        "MaxChain": 15,
+        "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces up to 15 different enemies dealing damage and stunning them."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1813,6 +1815,91 @@
                 "Cooldown": 0.8,
                 "Slow": 0.6,
                 "SlowTime": 1
+            }
+        ]
+    },
+       "Badlands Fredbear": {
+        "Type": "Cone Aoe",
+        "Image": "rbxassetid://130081689972624",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                 "Damage": 255,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1750,
+                "Range": 23,
+                "Damage": 315,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 3200,
+                "Range": 25,
+                "Damage": 315,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+    "Frost Badlands Fredbear": {
+        "Type": "Aoe + Slow",
+        "Image": "rbxassetid://100204051849362",
+        "Rarity": "Nightmare",
+        "PlacePrice": 16000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 0.9,
+                "Slow": 0,
+                "SlowTime": 5
+            },
+            {
+                "Price": 18000,
+                "Range": 23,
+                "Damage": 4000,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 5
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 6000,
+                "Cooldown": 0.7,
+                "Slow": 0,7
+                "SlowTime": 5
+            },
+            {
+                "Price": 22000,
+                "Range": 32,
+                "Damage": 8000,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 5
             }
         ]
     },
