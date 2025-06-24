@@ -1818,6 +1818,53 @@
             }
         ]
     },
+    "Badlands Fredbear": {
+        "Type": "Slow",
+        "Image": "rbxassetid://18255590026",
+        "Rarity": "Rare",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 40,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 50,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 17,
+                "Damage": 60,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.8,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
      "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
@@ -3516,98 +3563,6 @@
                 "Range": 20,
                 "Damage": 200,
                 "Cooldown": 0.3
-            }
-        ]
-    },
-        "Badlands Fredbear": {
-        "Type": "Cone Aoe",
-        "Image": "rbxassetid://96718118734146",
-        "Rarity": "Secret",
-        "PlacePrice": 350,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 250,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 800,
-                "Range": 26,
-                "Damage": 320,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1200,
-                "Range": 27,
-                "Damage": 340,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1600,
-                "Range": 28,
-                "Damage": 360,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 2000,
-                "Range": 30,
-                "Damage": 420,
-                "Cooldown": 0.4
-            }
-        ]
-    },
-    "Frost Badlands Fredbear": {
-        "Type": "AoE + Passive",
-        "Image": "rbxassetid://75152171158279",
-        "Rarity": "Nightmare",
-        "PlacePrice": 3500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Frost", "Description": "Freezes Enemy Based off the level"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 425,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 8000,
-                "Range": 26,
-                "Damage": 500,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 12000,
-                "Range": 27,
-                "Damage": 650,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 16000,
-                "Range": 28,
-                "Damage": 800,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 20000,
-                "Range": 30,
-                "Damage": 1200,
-                "Cooldown": 0.4
-                
             }
         ]
     },
