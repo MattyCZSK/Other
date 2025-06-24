@@ -3519,51 +3519,6 @@
             }
         ]
     },
-    "Badlands Fredbear": {
-        "Type": "Cone Aoe",
-        "Image": "rbxassetid://96718118734146",
-        "Rarity": "Secret",
-        "PlacePrice": 350,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 250,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 800,
-                "Range": 26,
-                "Damage": 320,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1200,
-                "Range": 27,
-                "Damage": 340,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1600,
-                "Range": 28,
-                "Damage": 360,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 2000,
-                "Range": 30,
-                "Damage": 420,
-                "Cooldown": 0.4
-            }
-        ]
-    },
     "Frost Badlands Fredbear": {
         "Type": "AoE + Passive",
         "Image": "rbxassetid://75152171158279",
