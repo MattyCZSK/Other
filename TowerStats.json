@@ -4323,32 +4323,32 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 700,
-                "Poison": 350,
+                "Damage": 7000,
+                "Poison": 700,
                 "PoisonTime": 3,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 800,
-                "Poison": 400,
+                "Damage": 8000,
+                "Poison": 800,
                 "PoisonTime": 3,
                 "Cooldown": 2.85
             },
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 900,
-                "Poison": 450,
+                "Damage": 9000,
+                "Poison": 900,
                 "PoisonTime": 3,
                 "Cooldown": 2.7
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 1000,
-                "Poison": 500,
+                "Damage": 10000,
+                "Poison": 1000,
                 "PoisonTime": 3,
                 "Cooldown": 2.5
             }
