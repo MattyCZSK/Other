@@ -3519,6 +3519,51 @@
             }
         ]
     },
+        "Badlands Fredbear": {
+        "Type": "Cone Aoe",
+        "Image": "rbxassetid://96718118734146",
+        "Rarity": "Secret",
+        "PlacePrice": 350,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 800,
+                "Range": 26,
+                "Damage": 320,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 340,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1600,
+                "Range": 28,
+                "Damage": 360,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 2000,
+                "Range": 30,
+                "Damage": 420,
+                "Cooldown": 0.4
+            }
+        ]
+    },
     "Frost Badlands Fredbear": {
         "Type": "AoE + Passive",
         "Image": "rbxassetid://75152171158279",
@@ -3526,7 +3571,7 @@
         "PlacePrice": 3500,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Frost", "Description": "Stuns Enemy Based off the level"},
+        "Passive": {"Name": "Frost", "Description": "Freezes Enemy Based off the level"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3537,41 +3582,31 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 425,
-                "Slow": 0,
-                "SlowTime": 0.5
                 "Cooldown": 0.4
             },
             {
                 "Price": 8000,
                 "Range": 26,
                 "Damage": 500,
-                "Cooldown": 0.4,
-                "Slow": 0,
-                "SlowTime": 0.5
+                "Cooldown": 0.4
             },
             {
                 "Price": 12000,
                 "Range": 27,
                 "Damage": 650,
-                "Cooldown": 0.4,
-                "Slow": 0,
-                "SlowTime": 0.5
+                "Cooldown": 0.4
             },
             {
                 "Price": 16000,
                 "Range": 28,
                 "Damage": 800,
-                "Cooldown": 0.4,
-                "Slow": 0,
-                "SlowTime": 0.5
+                "Cooldown": 0.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
                 "Damage": 1200,
-                "Cooldown": 0.4,
-                "Slow": 0,
-                "SlowTime": 0.5
+                "Cooldown": 0.4
                 
             }
         ]
