@@ -1820,7 +1820,7 @@
     },
      "Badlands Fredbear": {
         "Type": "Aoe",
-        "Image": "rbxassetid://18255590026",
+        "Image": "rbxassetid://100152935968788",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 2,
@@ -1867,7 +1867,7 @@
     },
     "Frost Badlands Fredbear": {
         "Type": "AoE + Slow",
-        "Image": "rbxassetid://18255590026",
+        "Image": "rbxassetid://126447935336119",
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Max": 2,
