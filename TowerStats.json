@@ -1818,12 +1818,59 @@
             }
         ]
     },
-    "Badlands Fredbear": {
-        "Type": "Slow",
+     "Badlands Fredbear": {
+        "Type": "Aoe",
         "Image": "rbxassetid://18255590026",
-        "Rarity": "Rare",
-        "PlacePrice": 800,
-        "Max": 3,
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+              {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 500,
+               "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 17,
+                "Damage": 600,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Frost Badlands Fredbear": {
+        "Type": "AoE + Slow",
+        "Image": "rbxassetid://18255590026",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1834,32 +1881,32 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 40,
+                "Damage": 8000,
                 "Cooldown": 1,
                 "Slow": 0,
                 "SlowTime": 1
             },
             {
-                "Price": 1200,
+                "Price": 10200,
                 "Range": 16,
-                "Damage": 50,
-                "Cooldown": 1,
+                "Damage": 5000,
+               "Cooldown": 0.7,
                 "Slow": 0,
                 "SlowTime": 1
             },
             {
-                "Price": 1600,
+                "Price": 16000,
                 "Range": 17,
-                "Damage": 60,
-                "Cooldown": 1,
+                "Damage": 6000,
+                "Cooldown": 0.7,
                 "Slow": 0,
                 "SlowTime": 1
             },
             {
-                "Price": 2000,
+                "Price": 20000,
                 "Range": 18,
-                "Damage": 60,
-                "Cooldown": 0.8,
+                "Damage": 6000,
+                "Cooldown": 0.5,
                 "Slow": 0,
                 "SlowTime": 1
             }
