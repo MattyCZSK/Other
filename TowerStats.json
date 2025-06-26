@@ -1231,28 +1231,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 0.9
+                "RangeBoost": 0.7
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 0.8
+                "RangeBoost": 0.75
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 0.75
+                "RangeBoost": 0.8
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 0.7
+                "RangeBoost": 0.9
             }
         ]
     },
